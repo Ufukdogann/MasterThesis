@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5495632d056e01dbc809e308cc695d1386583e6d6a42a4241df3b727fe31a026
-size 185
+Master_Thesis/** filter=lfs diff=lfs merge=lfs -text
+ParlAI/** filter=lfs diff=lfs merge=lfs -text
