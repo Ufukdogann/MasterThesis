@@ -13,7 +13,7 @@ git lfs checkout
 # for landingpage
 
 ```bash
-cd ~/ParlAI
+cd ~/landingpage
 python manage.py runserver
 ```
 
