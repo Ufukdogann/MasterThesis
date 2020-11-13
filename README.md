@@ -1,17 +1,17 @@
 # MasterThesis
 
-#in order to install git-lfs in the server!
+# in order to install git-lfs in the server!
 
-sudo apt-get install git-lfs
+sudo apt-get install git-lfs 
 git lsf install
 git lfs fetch
 git lfs checkout
 
-#for landingpage
+# for landingpage
 
 python manage.py runserver
 
-#for activating the chatbot
+# for activating the chatbot
 
 after downloading the chatbot, 
 cd ~/ParlAI; python setup.py develop
