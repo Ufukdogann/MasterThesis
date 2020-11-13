@@ -13,6 +13,7 @@ git lfs checkout
 # for landingpage
 
 ```bash
+cd ~/ParlAI
 python manage.py runserver
 ```
 
@@ -20,7 +21,8 @@ python manage.py runserver
 
 after downloading the chatbot, 
 ```bash
-cd ~/ParlAI; python setup.py develop
+cd ~/ParlAI
+python setup.py develop
 ```
 
 ```bash
